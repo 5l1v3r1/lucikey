@@ -1,6 +1,4 @@
 # lucikey
-its a keylogger to monitor windwos pc 
-# lucikey
 its a keylogger to monitor windwos pc
 
 
