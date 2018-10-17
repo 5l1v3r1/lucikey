@@ -1,7 +1,7 @@
 # lucikey
 its a keylogger to monitor windwos pc
 
-
+# code no more maintained
 
 # how to setup :
 
