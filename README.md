@@ -28,3 +28,5 @@ and unzip ps2exe-v5.0.0.zip and now open your windows powershell and change dir 
 now send this exe file to your victim so when your click it its will start capturing your all keystrokes and whenever victim restart his pc you will get his all keystrokes as a text format in your email address
 
 # its only for educational purposes i am not responsable for any kind of harm and damage
+
+credit : Luc1F3R
