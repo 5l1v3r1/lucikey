@@ -29,4 +29,3 @@ now send this exe file to your victim so when your click it its will start captu
 
 # its only for educational purposes i am not responsable for any kind of harm and damage
 
-credit : Luc1F3R
